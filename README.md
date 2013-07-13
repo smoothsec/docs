@@ -1,9 +1,6 @@
-Installation guide: https://github.com/smoothsec/docs/wiki/Smoothsec-installation
 
-Snort/Suricata rules management:  https://github.com/smoothsec/docs/wiki/Rules-management
 
-Snorby configuration: https://github.com/smoothsec/docs/wiki/Snorby-configuration
-
+SmoothSec documentation wiki: https://github.com/smoothsec/docs/wiki
 
 Smoothsec download: https://sourceforge.net/projects/smoothsec/
 
